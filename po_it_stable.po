@@ -2174,7 +2174,7 @@ msgstr "Listato di programma"
 
 #: src/frontends/qt4/ui/IncludeUi.ui:369
 msgid "Edit the file"
-msgstr "Edita il file"
+msgstr "Modifica il file"
 
 #: src/frontends/qt4/ui/IncludeUi.ui:372
 #: src/frontends/qt4/ui/LocalLayoutUi.ui:74
@@ -3713,15 +3713,15 @@ msgstr "Ra&ggruppa gli ambienti secondo le loro categorie"
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:122
 msgid "Edit Math Macros inline with a box around"
-msgstr "Edita macro in linea con cornice"
+msgstr "Modifica macro in linea con cornice"
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:127
 msgid "Edit Math Macros inline with the name in the status bar"
-msgstr "Edita macro in linea con nome nella barra di stato"
+msgstr "Modifica macro in linea con nome nella barra di stato"
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:132
 msgid "Edit Math Macros with a parameter list (like in LyX < 1.6)"
-msgstr "Edita macro con lista di parametri (come in LyX < 1.6)"
+msgstr "Modifica macro con lista di parametri (come in LyX < 1.6)"
 
 #: src/frontends/qt4/ui/PrefEditUi.ui:156
 msgid "Fullscreen"
@@ -4744,7 +4744,7 @@ msgstr "&Invia il file esportato al comando:"
 
 #: src/frontends/qt4/ui/ShortcutUi.ui:13
 msgid "Edit shortcut"
-msgstr "Edita scorciatoia"
+msgstr "Modifica scorciatoia"
 
 #: src/frontends/qt4/ui/ShortcutUi.ui:77
 msgid "Enter LyX function or command sequence"
